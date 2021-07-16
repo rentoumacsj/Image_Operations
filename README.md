@@ -15,15 +15,19 @@ pip install rembg
 ## remove_background_black.py
 图像去背景并保存为黑色背景图片，jpg格式（RGB通道）。
 批量实现：配置res_dir和des_dir路径。
+ ![image](https://github.com/rentoumacsj/Image_Operations/blob/main/sample_output/fg_black.png)
 
 ## remove_background_transparent.py
 图像去背景并保存为透明背景图片，png格式（RGBA通道）。
 批量实现：配置res_dir和des_dir路径。
+ ![image](https://github.com/rentoumacsj/Image_Operations/blob/main/sample_output/fg_transparent.png)
 
 ## image_concat.py
 图像拼接处理，可用于论文图像对比实验。
+ ![image](https://github.com/rentoumacsj/Image_Operations/blob/main/concat_output/compare.png)
 
 ## image_paste.py
 图像粘贴操作，用于将透明背景图像粘贴到给定底图上。
+ ![image](https://github.com/rentoumacsj/Image_Operations/blob/main/paste_output/sample.png)
 
 
